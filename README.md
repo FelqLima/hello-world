@@ -1,2 +1,6 @@
 # hello-world
-my firts repository
+
+Hello mai fren...
+I hav to master it soon as possible.
+
+bye o/
